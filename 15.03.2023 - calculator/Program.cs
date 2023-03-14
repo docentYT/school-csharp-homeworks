@@ -25,7 +25,8 @@
                 { "dodawanie", My_Math.add },
                 { "odejmowanie", My_Math.subtract },
                 { "mnożenie", My_Math.multiply },
-                { "dzielenie", My_Math.divide }
+                { "dzielenie", My_Math.divide },
+                { "potęgowanie", My_Math.exponentiation }
             };
 
             while (true)
